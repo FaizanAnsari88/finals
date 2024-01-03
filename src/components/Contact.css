@@ -1,0 +1,173 @@
+.contactusimage{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+}
+.forms{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+
+}
+.contactinput{
+    width: max-content;
+    align-items: center;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    
+    
+}
+
+.contactlabel{
+    font-weight: bold;
+}
+.contactcolom{
+    position: absolute;
+    top: 94%;
+    
+    
+    width: 100%;
+    
+    
+    
+
+}
+.iconcontact{
+    height: 30px;
+    margin-left: 15px;
+    color:blue;
+}
+.parancontact{
+    
+    color:black;
+    font-size: large;
+    font-weight: bold;
+}
+.box:hover{
+    background: linear-gradient(blue, yellow);
+    color: white;
+}
+
+
+@media screen  and (min-width: 0px) and (max-width: 740px){
+    .contactusimage{
+        height: 350px;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .forms{
+        top: 13%;
+        left: 10%;
+        width: 300px;
+        height: fit-content;
+        
+    }
+    label{
+        font-weight: bold;
+    }
+    .inputss{
+        width: 100%;
+    }
+    .inputbutton{
+        width: fit-content;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-weight: bold;
+    }
+    .inputbutton:hover{
+        background-color: green;
+    }
+    .inputs{
+        width: 200px;
+        margin: 5px;
+    }
+    
+    .box{
+    background: linear-gradient(blue, yellow);
+    color: white;
+    
+    }
+    .boxcontainer{
+        margin-top: 90px;
+    }
+    
+    .contactlabels{
+        display: none;
+    }
+    .buttoncontact{
+        height: 30px;
+        text-align: center;
+    }
+    .contactinput{
+        width: 100px;
+        
+        margin: 0px;
+        font-size: small;
+    }
+    
+    .contactlabel{
+        margin: 0px;
+        font-size: small;
+    }
+    .buttoncontact{
+        border-radius: 5px;
+        font-size: smaller;
+        margin: 0px;
+        font-weight: 100;
+       
+        
+    }
+    .contactusimage{
+        opacity: 0.6;
+    }
+    .contacth1{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    textarea{
+        height: 30px;
+    }
+    .contactcolom{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        
+        top: 51%;
+        display: none;
+        
+    }
+    .parancontact{
+        font-size: 10px;
+        
+    }
+    .lastwala{
+        display: none;
+    }
+    .iconcontact{
+        height: 15px;
+    }
+}
+.buttoncontact{
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 5px;
+    font-weight: bold;
+}
+.buttoncontact:hover{
+    background-color: blue;
+    color: white;
+}
+.forms{
+    box-shadow: 2px 3px 3px 3px gray;
+    border-radius: 5px;
+    
+}
+.inputbutton:hover{
+    background-color:gray;
+}

@@ -1,0 +1,195 @@
+@media screen  and (min-width: 0px) and (max-width: 740px){
+
+
+.aboutmainpage{
+    margin-top: 71px;
+    width: 100%;
+    height: 200px;
+    
+}
+
+/* about section start phone */
+
+.aboutus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  div.leftarm{
+    margin-top: 10px;
+}
+div.rightarm{
+    margin-top: 50px;
+}
+.know{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    
+}
+.spanabout{
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+    
+}
+.everyone{
+    color:  black;
+  font-size:20px;
+  font-weight: bold;
+}
+.apart{
+    color: blue;
+  font-size:22px;
+  font-weight: bold; 
+}
+.games{
+    color:black;
+  font-size:20px;
+  font-weight: bold; 
+}
+.htmll{
+    color: blue;
+    font-size:22px;
+    font-weight: bold;
+}
+.rightarm{
+    width: 100%;
+    
+}
+div.leftarm{
+    width: 100%;
+}
+img.rightarmimage{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    
+    box-shadow: 3px 3px 2px 3px  white;
+    
+}
+.aboutus{
+    text-align: center;
+    color: white;
+}
+
+
+h1{
+    color: white;
+}
+span{
+    color: aqua;
+}
+
+}
+.carousel-item{
+    margin-top: 72px;  
+}
+.icons{
+    height: 30px;
+    margin: 20px;
+    
+    
+}
+.aboutusimage{
+    
+    width: 100%;
+    height: fit-content;
+   
+
+}
+.parners{
+    letter-spacing: 5px;
+}
+.boxes{
+    height: 40px;
+    margin-top: 20px;
+}
+
+.hrs{
+ background-color:blue;
+ height: 5px;
+ width: 60px;
+ margin: 0 auto;
+ border: none;
+
+}
+
+body{
+    background-color: aquamarine;
+}
+.aboutmainpage{
+    
+    width: 100%;
+}
+
+
+
+ /* about section start phone */
+
+ .aboutus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+  div.leftarm{
+    margin-top: 10px;
+}
+div.rightarm{
+    margin-top: 50px;
+}
+.know{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    
+}
+.spanabout{
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+    
+}
+.everyone{
+    color: black;
+  font-size:20px;
+  font-weight: bold;
+}
+.apart{
+    color: blue;
+  font-size:22px;
+  font-weight: bold; 
+}
+.games{
+    color: black;
+  font-size:20px;
+  font-weight: bold; 
+}
+.htmll{
+    color:blue;
+    font-size:22px;
+    font-weight: bold;
+}
+.rightarm{
+    width: 100%;
+    
+}
+div.leftarm{
+    width: 100%;
+   
+}
+img.rightarmimage{
+    width: 100%;
+    height: 450px;
+    border-radius: 20px;
+    margin-top: 50px;
+   
+    
+    box-shadow: 3px 3px 2px 3px  white;
+    
+}
+.aboutus{
+    text-align: center;
+    color: white;
+}

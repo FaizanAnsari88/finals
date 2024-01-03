@@ -1,0 +1,89 @@
+
+
+li{
+    
+    font-size: large;
+    font-weight: bold;
+    margin-left: 60px;
+    
+    
+   
+    
+}
+
+.faizan{
+    position: fixed;
+    width: 100%;
+   
+    
+    
+    
+
+    z-index: 1;
+   
+}
+.navbar{
+    width: 100%;
+    display: block;
+    background-color:black;
+    
+
+}
+@media screen  and (min-width: 0px) and (max-width: 740px){
+    li{
+        text-align: center;
+        margin-bottom: 0px;
+        
+    }
+    
+    .toggle:hover{
+        background-color: blue;
+        
+        
+    }
+    .toggle{
+         
+        z-index: 1;
+        
+    }
+    .togglebelow{
+        
+        z-index: 1;
+    }
+    .faizan{
+        position: absolute;
+        
+        
+    }
+    
+    .navbar-toggler-icon{
+        color: white;
+        background-color: blue;
+        
+       
+    }
+    .collapse{
+        z-index: 1;
+    }
+    .navbar{
+        background-color: black;
+        z-index: 2;
+    
+        
+        
+    }
+    .ab{
+        color: red;
+    }
+    Link{
+        color: black;
+    }
+    
+    
+    
+}
+ ul li:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
