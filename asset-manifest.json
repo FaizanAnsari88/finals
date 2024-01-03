@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/finals/static/css/main.50aaec51.css",
+    "main.js": "/finals/static/js/main.b229ad33.js",
+    "static/media/Capture.png": "/finals/static/media/Capture.82eaec52a7fe19a6466a.png",
+    "static/media/Car.png": "/finals/static/media/Car.5159aa5438281f090409.png",
+    "static/media/FinalFaizanresume.pdf": "/finals/static/media/FinalFaizanresume.85609e45f591a446ad1f.pdf",
+    "static/media/contactusimage1.jpg": "/finals/static/media/contactusimage1.416e060b08cd3e00d805.jpg",
+    "static/media/aboutrightarmimage.png": "/finals/static/media/aboutrightarmimage.d8fe852f6a9badcd8616.png",
+    "static/media/faizan.jpg": "/finals/static/media/faizan.b2c97072c4af523e640e.jpg",
+    "static/media/homeimage4.webp": "/finals/static/media/homeimage4.7780d76178e140b05a96.webp",
+    "static/media/crud.png": "/finals/static/media/crud.3e2493f343a5444549be.png",
+    "static/media/image10.png": "/finals/static/media/image10.2f954866583b532132e0.png",
+    "static/media/servicelogo1.png": "/finals/static/media/servicelogo1.da2d1ab0b67fa97c5316.png",
+    "static/media/servicelogo2.png": "/finals/static/media/servicelogo2.971b1d6770cdbb6be32a.png",
+    "static/media/homeimage3.avif": "/finals/static/media/homeimage3.773b43d07220563e2232.avif",
+    "static/media/prevetedhome.jpg": "/finals/static/media/prevetedhome.e3cba553bc16f922f82c.jpg",
+    "static/media/srvicesticker.avif": "/finals/static/media/srvicesticker.621304ab1b03a3adc9cb.avif",
+    "index.html": "/finals/index.html",
+    "main.50aaec51.css.map": "/finals/static/css/main.50aaec51.css.map",
+    "main.b229ad33.js.map": "/finals/static/js/main.b229ad33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50aaec51.css",
+    "static/js/main.b229ad33.js"
+  ]
+}
